@@ -22,6 +22,7 @@ And you can be part of this journey. All contributions are always welcome.
 - [protocol-core-v1](https://github.com/storyprotocol/protocol-core-v1) - Core smart contracts for Story's "Proof-of-Creativity" protocol and Programmable IP layer.
 - [protocol-periphery-v1](https://github.com/storyprotocol/protocol-periphery-v1) - Periphery smart contract streamlines multiple interactions with the Story PoC Protocol.
 - [typescript-sdk](https://github.com/storyprotocol/sdk) - Story Protocol TypeScript SDK.
+- [plugin-story](https://github.com/elizaOS/eliza/tree/develop/packages/plugin-story) - ElizaOS's plugin-story.
 
 ## Contents
 
