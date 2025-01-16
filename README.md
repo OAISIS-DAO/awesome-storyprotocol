@@ -1,6 +1,7 @@
 <h1 align="center">꧁Awesome Story Protocol꧂</h1>
 <div align="center"><i>Hub for community-driven resources for Story Protocol.</i></div>
 <div align="center"><i>OAISIS DAO maintain this repository.</i></div>
+<img src="https://raw.githubusercontent.com/OAISIS-DAO/awesome-storyprotocol/refs/heads/main/awesome-storyprotocol.png" alt="logo of awesome-storyprotocol repository">
 
 ---
 
