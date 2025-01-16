@@ -27,5 +27,6 @@ And you can be part of this journey. All contributions are always welcome.
 
 - [docs - story protocol](https://docs.story.foundation/) - Official documentation for Story Protocol
 - [learn - story protocol](https://learn.story.foundation/) - Learn Story Protocol's main concepts
+- [Agent TCP/IP](https://drive.google.com/file/d/1IM74cpN8TfS811gTaXxxkRH8QgpLFzZs/view?pli=1) - Agent Transaction Control Protocol for Intellectual Property Whitepaper
 - [What is IP?](https://jasonzhao.substack.com/p/what-is-ip) - A description of the definition of IP (Intellectual Property) in Story Protocol (written by Jason Zhao)
 - [How Blockchains Will Eat the World](https://jasonzhao.substack.com/p/how-blockchains-will-eat-the-world) - How blockchains will eat the world (written by Jason Zhao)
