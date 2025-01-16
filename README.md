@@ -31,6 +31,7 @@ And you can be part of this journey. All contributions are always welcome.
 - [Agent TCP/IP](https://drive.google.com/file/d/1IM74cpN8TfS811gTaXxxkRH8QgpLFzZs/view?pli=1) - Agent Transaction Control Protocol for Intellectual Property Whitepaper
 - [What is IP?](https://jasonzhao.substack.com/p/what-is-ip) - A description of the definition of IP (Intellectual Property) in Story Protocol (written by Jason Zhao)
 - [How Blockchains Will Eat the World](https://jasonzhao.substack.com/p/how-blockchains-will-eat-the-world) - How blockchains will eat the world (written by Jason Zhao)
+- [Investing in Story](https://a16zcrypto.com/posts/article/investing-in-story/) - a16z thesis about Story Protocol.
 - [Story: The World’s IP Blockchain](https://review.stanfordblockchain.xyz/p/51-story-the-worlds-ip-blockchain) - written by Stanford Blockchain Review 
 - [Why Do We Need Story Protocol?](https://4pillars.io/en/articles/why-do-we-need-story-protocol) - written by Four Pillars
 - [Future of IP industry, Story Protocol](https://reports.tiger-research.com/p/story-protocol-interview-eng?utm_source=publication-search) - written by Tiger Research
