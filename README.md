@@ -35,3 +35,4 @@ And you can be part of this journey. All contributions are always welcome.
 - [Story: The World’s IP Blockchain](https://review.stanfordblockchain.xyz/p/51-story-the-worlds-ip-blockchain) - written by Stanford Blockchain Review 
 - [Why Do We Need Story Protocol?](https://4pillars.io/en/articles/why-do-we-need-story-protocol) - written by Four Pillars
 - [Future of IP industry, Story Protocol](https://reports.tiger-research.com/p/story-protocol-interview-eng?utm_source=publication-search) - written by Tiger Research
+- [Story's Genesis Block](https://jasonzhao.substack.com/p/storys-genesis-block) - Story developer mainnet launch (written by Jason Zhao)
